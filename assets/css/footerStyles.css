@@ -29,7 +29,7 @@ body {
   position: absolute;
   bottom: 0;
   display: flex;
-  background-image: url("../assets/images/headingFootingBackground.png");
+  background-image: url("/assets/images/headingFootingBackground.png");
   background-size: cover;
   width: 100%;
 }
